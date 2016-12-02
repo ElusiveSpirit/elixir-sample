@@ -1,4 +1,4 @@
-# KV
+# KV [![Build Status](https://travis-ci.org/ElusiveSpirit/elixir-sample.svg?branch.master)](https://travis-ci.org/ElusiveSpirit/elixir-sample)
 
 **TODO: Add description**
 

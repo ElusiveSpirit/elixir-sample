@@ -5,4 +5,8 @@ defmodule KVTest do
   test "the truth" do
     assert 1 + 1 == 2
   end
+
+  test "the false" do
+    assert 1 + 2 != 2
+  end
 end
